@@ -37,7 +37,7 @@
    SECCIÓN DE PASOS
    ===================================================== */
 .contribute-section {
-  padding: var(--spacing-3xl) 0;
+  padding: var(--spacing-2m) 0;
   background: var(--white);
 }
 
@@ -472,10 +472,6 @@
   color: var(--accent-red);
 }
 
-.example-item .code-example {
-  margin: 0;
-  border-radius: 0;
-}
 
 .error-list {
   padding: var(--spacing-lg);

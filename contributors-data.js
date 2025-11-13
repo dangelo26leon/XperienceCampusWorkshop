@@ -52,6 +52,8 @@ const contributors = [
       "Agradable",
     hobbies: ["Videojuegos", "Cocina", "Series", "Pasear"],
   },
+
+  
   // ================= TEMPLATE PARA NUEVOS COLABORADORES =================
   // Copia y pega este bloque dentro del array 'contributors' y reemplaza los valores:
   /*
